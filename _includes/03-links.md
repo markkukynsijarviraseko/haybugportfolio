@@ -1,5 +1,5 @@
-[LinkedIn account] (https://www.linkedin.com/in/markkukynsijarvi)
+[LinkedIn](https://www.linkedin.com/in/markkukynsijarvi)
 
-[GitHub account](https://github.com/markkukynsijarvi)
+[GitHub](https://github.com/markkukynsijarvi)
 
 
