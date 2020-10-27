@@ -20,7 +20,5 @@ layout: default
 
 {% include 06-contact.md %}
 
-<br>
 
-{% include 04-lists.md %}
 
