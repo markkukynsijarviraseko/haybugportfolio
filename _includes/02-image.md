@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Haybug Logo](/master/images/logo960.PNG?raw=true)
