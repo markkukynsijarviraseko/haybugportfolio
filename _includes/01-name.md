@@ -1,1 +1,0 @@
-# Markku Kynsijärvi

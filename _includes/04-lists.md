@@ -3,3 +3,4 @@ Favourite free time activies may contain:
 * Hiking
 * Fishing
 * Motors
+* Lifting
