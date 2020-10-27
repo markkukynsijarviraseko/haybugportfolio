@@ -1,1 +1,1 @@
-Interested in inquiring about technological advisory services? Contact us through **markku.kynsijarvi(a)iki.fi**
+Interested in inquiring about our technological advisory services? Contact us through **markku.kynsijarvi(a)iki.fi**
